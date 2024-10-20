@@ -1,0 +1,5 @@
+ctrnsformer==0.2.5
+sentence-transformer == 2.2.2        ##Free Embedding Model 
+pinecone-client
+langchain == 0.0.225
+flask
