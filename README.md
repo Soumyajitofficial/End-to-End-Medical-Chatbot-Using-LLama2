@@ -5,3 +5,5 @@
 '''
 conda create -n MEDCHATENV python = 3.8 -y
 '''
+
+pip install -r Requiremnt.txt
